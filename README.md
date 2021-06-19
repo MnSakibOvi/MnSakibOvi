@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MnSakibOvi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in competative programming
+- 🌱 I’m currently learning cp
+- 💞️ I’m looking to collaborate on software industry
 - 📫 How to reach me mnsakib1812@gmail.com
 
 <!---
