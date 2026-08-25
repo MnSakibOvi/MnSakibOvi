@@ -2,9 +2,20 @@
 - 👀 I’m interested in competative programming
 - 💼 Working at **Brain Station 23 PLC**  
   - 🧠 *Trainee Software Engineer* (Mar 2024 – Aug 2024)  
-  - 💻 *Associate Software Engineer* (Aug 2024 – Present)  
+  - 💻 *Associate Software Engineer* (Aug 2024 – Jan 2026)
+  - 💻 *Software Engineer* (Jan 2026 – Present)  
 - 🛠️ Technologies I work with: ASP.NET, C#, NopCommerce, Java, Spring Boot  
-- 📫 Reach me: **mnsakib1812@gmail.com**  
+- 📫 Reach me: **mnsakib.tech@outlook.com**  
+- 📫 Reach me: **mnsakib1812@gmail.com** 
+## 🎓 Certifications
+
+* [GitHub Administration (GH-100) — Verified via Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/MuhammdNazmusSakib-4900/60DAF2B475CD3FFA?sharingId=ECC99F4EBEADA5AA)
+[![GitHub Certification](https://shields.io)](https://microsoft.com)
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm  M_N_Sakib</h1>
 <h3 align="center">Competitive Programmer | SoftWare Engineer | Open-Source Enthusiast</h3>
