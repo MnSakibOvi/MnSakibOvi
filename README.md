@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M_N_Sakib</h1>
-<h3 align="center">Senior Software Engineer · ASP.NET · nopCommerce</h3>
+<h3 align="center"> Software Engineer · ASP.NET · nopCommerce</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MnSakibOvi&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
@@ -19,7 +19,7 @@
 
 ## About
 
-**Senior Software Engineer @ Brain Station 23 PLC** — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.
+** Software Engineer @ Brain Station 23 PLC** — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.
 
 `C#` · `ASP.NET Core` · `nopCommerce` · `SQL` · plugins · payments · shipping · SEO
 
