@@ -19,7 +19,8 @@
 
 ## About
 
-** Software Engineer @ Brain Station 23 PLC** — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.
+ 
+ <h3 align="left">Software Engineer @ Brain Station 23 PLC — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.</h3>
 
 `C#` · `ASP.NET Core` · `nopCommerce` · `SQL` · plugins · payments · shipping · SEO
 
