@@ -1,101 +1,182 @@
-- 👋 Hi, I’m @MnSakibOvi
-- 👀 I’m interested in competative programming
-- 💼 Working at **Brain Station 23 PLC**  
-  - 🧠 *Trainee Software Engineer* (Mar 2024 – Aug 2024)  
-  - 💻 *Associate Software Engineer* (Aug 2024 – Jan 2026)
-  - 💻 *Software Engineer* (Jan 2026 – Present)  
-- 🛠️ Technologies I work with: ASP.NET, C#, NopCommerce, Java, Spring Boot  
-- 📫 Reach me: **mnsakib.tech@outlook.com**  
-- 📫 Reach me: **mnsakib1812@gmail.com** 
-## 🎓 Certifications
+<h1 align="center">Hi 👋, I'm M_N_Sakib</h1>
+<h3 align="center">Senior Software Engineer · ASP.NET · nopCommerce</h3>
 
-* [GitHub Administration (GH-100) — Verified via Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/MuhammdNazmusSakib-4900/60DAF2B475CD3FFA?sharingId=ECC99F4EBEADA5AA)
-[![GitHub Certification](https://shields.io)](https://microsoft.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MnSakibOvi&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/m-n-sakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:mnsakib.tech@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/MnSakibOvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm  M_N_Sakib</h1>
-<h3 align="center">Competitive Programmer | SoftWare Engineer | Open-Source Enthusiast</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MnSakibOvi&label=Profile%20views&color=0e75b6&style=flat" alt="MnSakibOvi" /></p> 
-<p align="center">user name : MnSakibOvi</p>
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" />
-
-<hr>
-
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnSakibOvi&theme=radical" />
-
-<img aligh="right" alt="MnSakibOvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MnSakibOvi&show_icons=true&theme=radical" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MnSakibOvi&" alt="MnSakibOvi" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif" width="380" alt="Focus" />
+</p>
 
 ---
 
-### 🏆 Achievements & Contest Experience
+## About
 
-- 🥇 Champion, 14th DIU Intra-University Programming Contest 2021 (Dept. Level)
-- 💻 Participated in **200+** individual & team contests
-- 🌐 Ranked in **Bangladesh's Top 10 on Codeforces**
-- 👥 ICPC Team Participation:
-  - `DIU_AristocratiC` – ICPC Asia Dhaka 2020  
-  - `DIU_HEXA` – ICPC Asia Dhaka 2021  
-  - `DIU_Aim3rs` – ICPC Asia Dhaka 2022  
-- ✍️ Problem Setter:
-  - DIU Take-off & CodeTrap Programming Contests (2022–2023)
-  - Unlock The Algorithm – Fall 2022
+**Senior Software Engineer @ Brain Station 23 PLC** — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.
+
+`C#` · `ASP.NET Core` · `nopCommerce` · `SQL` · plugins · payments · shipping · SEO
+
+📫 mnsakib.tech@outlook.com · mnsakib1812@gmail.com
 
 ---
 
-### 🛠️ Projects
+## Experience
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **[NopStation Plugin](#)** | ASP.NET, NopCommerce | CRUD system for employee data with public view support |
-| **[Product Management](#)** | ASP.NET | Efficient admin-focused product system |
-| **[Student Management](#)** | SpringBoot, PostgreSQL | Dynamic school admin platform |
-| **[Employee Payroll System](#)** | Java OOP | Streamlined payroll process |
-| **[Employee Management System](#)** | Java | Full employee record control |
-| **[WheelWander](#)** | HTML, CSS, PHP, MySQL | Bicycle rental web platform |
+| Role | Company | Period |
+|------|---------|--------|
+| **Senior Software Engineer** | Brain Station 23 PLC | Jan 2026 – Present |
+| Associate Software Engineer | Brain Station 23 PLC | Aug 2024 – Jan 2026 |
+| Trainee Software Engineer | Brain Station 23 PLC | Mar 2024 – Aug 2024 |
 
 ---
 
-### 📚 Research & Interests
+## Certification
 
-- 🤖 **AI Research:** Fair and Creative AI Writers, LLM Task Learning, Bias Mitigation  
-- 🧠 Interested in: Algorithms, Problem Solving, Open Source, Teaching
-
----
-
-### 👨‍🏫 Trainer & Mentor Roles
-
-- 🎯 **Programming Trainer** – DIU ACM  
-  - Take Off Advance Camp (2022–2023)  
-- 💡 **C Khoon Instructor** (Fall 2021–2022)
-- 🧑‍🏫 Mentor for many students in DIU ACM (officially & unofficially)
+[![GH-100](https://img.shields.io/badge/GitHub_Administration-GH--100-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MuhammdNazmusSakib-4900/60DAF2B475CD3FFA?sharingId=ECC99F4EBEADA5AA)
 
 ---
 
-### 💬 Languages
+## Professional Projects
 
-- 🇬🇧 English: Professional Working Proficiency  
-- 🇧🇩 Bangla: Native or Bilingual Proficiency
+### <img src="https://intelisale.com/wp-content/uploads/2026/04/android-chrome-512x512-1.png" height="28" alt="Intelisale" /> Intelisale
+**Partner** · [intelisale.com](https://intelisale.com/)  
+Omnichannel **nopCommerce** platform — multi-store, filters, mega menu, payments, shipping & APIs.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://eshop.wurth.rs/">
+        <img src="https://eshop.wurth.rs/Themes/Pavilion/Content/img/OgImageSRB.jpg" height="56" alt="Würth RS" /><br/>
+        <b>Würth Serbia</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://eshop.wurth.com.mk/">
+        <img src="https://eshop.wurth.com.mk/Themes/Pavilion/Content/img/OgImageMKD.jpg" height="56" alt="Würth MK" /><br/>
+        <b>Würth Macedonia</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://eshop.wurth.ba/">
+        <img src="https://eshop.wurth.ba/media/logo/stores/1/wurth-logo-social.png" height="56" alt="Würth BA" /><br/>
+        <b>Würth Bosnia</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://eshop.wurth.me/">
+        <img src="https://eshop.wurth.rs/Themes/Pavilion/Content/img/OgImageSRB.jpg" height="56" alt="Würth ME" /><br/>
+        <b>Würth Montenegro</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.enmon.ba/">
+        <img src="https://www.enmon.ba/Themes/Emporium_Enmon/Content/img/img_enmon/enmonHomeLink.jpg" height="56" alt="Enmon BA" /><br/>
+        <b>Enmon Bosnia</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.enmon.mk/">
+        <img src="https://www.enmon.mk/Themes/Emporium_Enmon/Content/img/img_enmon/enmonHomeLink.jpg" height="56" alt="Enmon MK" /><br/>
+        <b>Enmon Macedonia</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.enmon.hr/">
+        <img src="https://www.enmon.hr/Themes/Emporium_Enmon/Content/img/img_enmon/enmonHomeLink.jpg" height="56" alt="Enmon HR" /><br/>
+        <b>Enmon Croatia</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tehnounion.rs/">
+        <img src="https://tehnounion.rs/Themes/Pavilion_Tehnounion/Content/img/TehnounionHomeLink.jpg" height="56" alt="Tehnounion" /><br/>
+        <b>Tehnounion</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.tri-o.rs/">
+        <img src="https://www.tri-o.rs/Themes/Emporium_Trio/Content/img/maskot.png" height="56" alt="Tri-O" /><br/>
+        <b>Tri-O</b> · Partner
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://iskrarakija.rs/">
+        <img src="https://iskrarakija.rs/Themes/Urban/Content/img/OgImageKremen.png" height="56" alt="Iskra Rakija" /><br/>
+        <b>Iskra Rakija</b>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### <img src="https://www.actionwebsites.com.au/wp-content/uploads/2025/08/cropped-favicon-32x32-1-192x192.png" height="28" alt="Action" /> Action Websites
+**Partner** · [actionwebsites.com.au](https://www.actionwebsites.com.au/)  
+Australian enterprise **nopCommerce** programs — catalog, pricing, checkout, SEO & delivery.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.switchboardinabox.com.au/">
+        <img src="https://www.switchboardinabox.com.au/images/thumbs/0000501_0000003_logo.png" height="56" alt="Switchboard" /><br/>
+        <b>Switchboard In A Box</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.ausgridstaffclub.org.au/">
+        <img src="https://www.ausgridstaffclub.org.au/favicon.ico" height="56" alt="Ausgrid" /><br/>
+        <b>Ausgrid Staff Club</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.ozzietabs.com.au/">
+        <img src="https://www.ozzietabs.com.au/images/thumbs/0000815_0000015_website_logo.png" height="56" alt="Ozzie Tabs" /><br/>
+        <b>Ozzie Tabs</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.realtyshop.com.au/">
+        <img src="https://www.realtyshop.com.au/icons/icons_0/android-chrome-192x192.png?v=4.40" height="56" alt="Realty Shop" /><br/>
+        <b>Realty Shop</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Skills
+## Competitive Programming
 
-**Programming Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat&logo=.net) 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+🥇 **Champion** — DIU Intra-University Programming Contest 2021  
+💻 **200+** contests · 🌐 BD **Top 10** Codeforces · 🏆 ICPC Asia Dhaka
 
-**Tools & Concepts:**  
-Git, GitHub, OOP, SDLC, UI/UX, Database  
-Logical Reasoning, Data Structures, Algorithms
+`DIU_AristocratiC` · `DIU_HEXA` · `DIU_Aim3rs`  
+Problem setting: DIU Take-off · CodeTrap · Unlock The Algorithm
 
 ---
+
+## Skills
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/nopCommerce-0B5CAB?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+Trainer @ DIU ACM · Mentoring · `2021–2023`
+
+---
+
+<p align="center"><i>"First solve the problem. Then write the code."</i></p>
