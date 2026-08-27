@@ -32,7 +32,7 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Software Engineer** | Brain Station 23 PLC | Jan 2026 – Present |
+| **Software Engineer** | Brain Station 23 PLC | Jan 2025 – Present |
 | Associate Software Engineer | Brain Station 23 PLC | Aug 2024 – Jan 2026 |
 | Trainee Software Engineer | Brain Station 23 PLC | Mar 2024 – Aug 2024 |
 
