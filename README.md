@@ -1,14 +1,24 @@
-<h1 align="center">Hi 👋, I'm M_N_Sakib</h1>
+<h1 align="center">Hi 👋, I'm Nazmus Sakib (mnsakib)</h1>
 <h3 align="center"> Software Engineer · ASP.NET · nopCommerce</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MnSakibOvi&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  &nbsp;
+  <a href="https://mnsakib.net"><img src="https://img.shields.io/badge/Portfolio-mnsakib.net-0D6E6A?style=flat&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/m-n-sakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:mnsakib.tech@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/MnSakibOvi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://mnsakib.net">
+    <img src="https://mnsakib.net/og.png" width="560" alt="Nazmus Sakib (mnsakib) portfolio: nopCommerce and ASP.NET Core developer" />
+  </a>
+  <br/>
+  <b>Portfolio:</b> <a href="https://mnsakib.net">mnsakib.net</a> · case studies on nopCommerce, ERP sync and multi-store platforms
 </p>
 
 <p align="center">
@@ -23,6 +33,8 @@
  <h3 align="left">Software Engineer @ Brain Station 23 PLC — enterprise **nopCommerce / ASP.NET Core** for multi-store B2B & B2C.</h3>
 
 `C#` · `ASP.NET Core` · `nopCommerce` · `SQL` · plugins · payments · shipping · SEO
+
+🌐 Portfolio: [mnsakib.net](https://mnsakib.net)
 
 📫 mnsakib.tech@outlook.com · mnsakib1812@gmail.com
 
@@ -153,6 +165,8 @@ Australian enterprise **nopCommerce** programs — catalog, pricing, checkout, S
     </td>
   </tr>
 </table>
+
+> 📖 Detailed write-ups of these projects are on my portfolio: [Switchboard In A Box](https://mnsakib.net/case-studies/switchboard) · [Ausgrid Staff Club](https://mnsakib.net/case-studies/ausgrid) · [Realty Shop](https://mnsakib.net/case-studies/realty-shop)
 
 ---
 
